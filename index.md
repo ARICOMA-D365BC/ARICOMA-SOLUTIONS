@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# AUTOCONT SOLUTIONS
 
-You can use the [editor on GitHub](https://github.com/AutoContCZ/AC-Solutions/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Microsoft Dynamics 365 Business Central** is a modern information system for small and medium-sized companies looking for a simple and easily customizable solution with comprehensive coverage of their needs and an intuitive user experience. It offers increased productivity and competitiveness, saves upfront investment and reduces operational and safety concerns.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## AUTOCONT EXTENSION MODULES
+We are expanding the standard Dynamics 365 Business Central system with a range of functionality complementing legislative requirements and best practices. We have grouped the individual functionalities into the following packages.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Documentation for our solutions** can be found on our website [AUTOCONT Solutions](https://www.acdynamics365.cz/docs/en-us/dynamics365/business-central/AC-Solutions/ac-solutions.html).
 
-```markdown
-Syntax highlighted code block
+### [AC Financial Pack](https://www.acdynamics365.cz/docs/cs-cz/dynamics365/business-central/AC-FinancialPack/ac-finance-pack.html) - extension for finance
+- App Extension Set
+- Insolvency register
+- Factoring
+- More payments
+- Fiscal printers
+- Pack Tracking Basic (EKOKOM)
+- Pack Tracking - Return Packing
 
-# Header 1
-## Header 2
-### Header 3
+### [AC Productivity Pack](https://www.acdynamics365.cz/docs/cs-cz/dynamics365/business-central/AC-ProductivityPack/ac-productivity-pack.html) - productivity extension  
+- Electronic invoicing
+- Data boxes
+- Incoming Mail
+- General parameters
+- SharePoint publishing
+- Job Queue extension
+- Transport - basic
+- Transport - planning
+- WorkFlow - State Management
+- Notifications
+- Complaints Management
+- HelpDesk
+- Central Database
+- Spooler
+- Production Tools
+- Parcels
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### [SK Legislative Pack](https://www.acdynamics365.cz/docs/cs-cz/dynamics365/business-central/AC-SK/ac-sk-legislative-pack.html) - extension to Slovak legislation and Slovak language 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Support and Contacts 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Comments, suggestions, or bugs can be reported via **Issues** here on GitHub or by emailing [bc_support@autocont.cz](mailto:bc_support@autocont.cz). 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AutoContCZ/AC-Solutions/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For business issues and other information, use [Contact](https://www.acdynamics365.cz/kontakt).

@@ -2,7 +2,7 @@
 
 This repository provides Apps from AUTOCONT for Business Central.
 
-Each version of Business Central has its own separate branch where you can find individual releases of AUTOCONT applications.
+Each version of Business Central has its own separate folder where you can find individual releases of AUTOCONT applications.
 
 ## Support and Contacts
 

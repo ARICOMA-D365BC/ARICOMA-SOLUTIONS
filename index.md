@@ -1,13 +1,12 @@
 # AUTOCONT SOLUTIONS - Vydané aktualizace pro Microsoft Dynamics 365 Business Central
 
-## Kumulativní aktualizace AUTOCONT řešení  
-
 |Aktualizace  |Build  |Datum vydání  |
 |---------|---------|---------|
-|[BC22](Changes/BC22/Updates-bv22.md) |Microsoft Dynamics 365 Business Central 2023 Release Wave 1 |2023-03 |
-|[BC21](Changes/BC21/Updates-bc21.md) |Microsoft Dynamics 365 Business Central 2022 Release Wave 2  |2022-10 |
-|[BC20](Changes/BC20/Updates-bc20.md) |Microsoft Dynamics 365 Business Central 2022 Release Wave 1  |2022-04 |
+|[BC22](Changes/BC22/Updates-bv22.md) |Business Central 2023 Release Wave 1 |2023-04 |
+|[BC21](Changes/BC21/Updates-bc21.md) |Business Central 2022 Release Wave 2 |2022-10 |
+|[BC20](Changes/BC20/Updates-bc20.md) |Business Central 2022 Release Wave 1 |2022-04 |
 
+**Aplikace k našim řešením** naleznete na GitHub stránkách [AUTOCONT Solutions](https://github.com/AutoContCZ/AC-Solutions).
 
 **Dokumentaci k našim řešením** naleznete na stránkách [AUTOCONT Solutions](https://www.acdynamics365.cz/docs/en-us/dynamics365/business-central/AC-Solutions/ac-solutions.html).
 

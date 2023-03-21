@@ -12,6 +12,6 @@
 
 ### Podpora a kontakty  
 
-Komentáře, návrhy, nebo chyby mohou být hlášeny prostřednictvím **Issues** zde na GitHub nebo na email [bc_support@autocont.cz](mailto:bc_support@autocont.cz).  
+Komentáře, návrhy, nebo chyby mohou být hlášeny prostřednictvím [Issues](https://github.com/AutoContCZ/AC-Solutions/issues) na GitHub stránkách nebo na email [bc_support@autocont.cz](mailto:bc_support@autocont.cz).  
 
 Pro obchodní informace a požadavky použijte [Kontakt](https://www.acdynamics365.cz/kontakt).

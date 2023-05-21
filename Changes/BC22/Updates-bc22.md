@@ -25,7 +25,7 @@
 
 ## Viz také
 
-Přehled aktualizací pro všechny verze Business Central [AUTOCONT SOLUTIONS - Vydané aktualizace pro Microsoft Dynamics 365 Business Central](../index.md).
+Přehled aktualizací pro všechny verze Business Central [AUTOCONT SOLUTIONS - Vydané aktualizace pro Microsoft Dynamics 365 Business Central](../../index.md).
 
 Dokumentaci k jednotlivým funkcionalitám AC řešení naleznete na stránkách [AUTOCONT Solutions](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/AC-Solutions/ac-solutions.html).  
 

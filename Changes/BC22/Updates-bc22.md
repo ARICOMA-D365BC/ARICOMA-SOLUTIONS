@@ -1,4 +1,4 @@
-# Aktualizace ARICOMA řešení pro Microsoft Dynamics 365 Business Central 2023 Release Wave 1 (BC22)
+# Aktualizace ARICOMA SOLUTIONS pro Microsoft Dynamics 365 Business Central 2023 Release Wave 1 (BC22)
 
 ## Kumulativní aktualizace
 
@@ -30,6 +30,6 @@
 
 ## Viz také
 
-[Přehled aktualizací ARICOMA řešení pro všechny verze Business Central](../../index.md).  
-[Dokumentace k funkcionalitám ARICOMA řešení](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/AC-Solutions/ac-solutions.html).  
+[Přehled aktualizací ARICOMA SOLUTIONS pro všechny verze Business Central](../../index.md).  
+[Dokumentace k funkcionalitám ARICOMA SOLUTIONS](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/AC-Solutions/ac-solutions.html).  
 [Vydané aktualizace Microsoft pro Dynamics 365 Business Central 2023 Release Wave 1 (BC22)](https://support.microsoft.com/en-us/topic/released-updates-for-microsoft-dynamics-365-business-central-2023-release-wave-1-37e2d08e-6f61-4522-90ba-1cea59d8de51).  

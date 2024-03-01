@@ -4,6 +4,7 @@
 
 |Aktualizace |Datum vydání  |
 |---------|---------|
+|[CU22.10](2024-02-CU22.10-Changes_details.md) |2024-02 |
 |[CU22.9](2024-01-CU22.9-Changes.md) |2024-01 |
 |[CU22.8](2023-12-CU22.8-Changes.md) |2023-12 |
 |[CU22.7](2023-11-CU22.7-Changes.md) |2023-11 |

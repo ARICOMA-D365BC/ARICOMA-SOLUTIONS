@@ -1,8 +1,8 @@
-# AC-Solutions
+# ARICOMA-Solutions
 
-This repository provides Apps from AUTOCONT for Business Central.
+This repository provides Apps from ARICOMA for Business Central.
 
-Each version of Business Central has its own separate folder where you can find individual releases of AUTOCONT applications.
+Each version of Business Central has its own separate folder where you can find individual releases of ARICOMA applications.
 
 ## Support and Contacts
 
@@ -12,10 +12,10 @@ For business issues and other information, use [Contact](https://www.acdynamics3
 
 ## Documentation
 
-Documentation for our solutions can be found at [AUTOCONT Solutions](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/AC-Solutions/ac-solutions.html).
+Documentation for our solutions can be found at [ARICOMA-Solutions](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/AC-Solutions/ac-solutions.html).
 
-### [AC Financial Pack](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/AC-FinancialPack/ac-finance-pack.html) - extension for finance
+### [Financial Pack](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/AC-FinancialPack/ac-finance-pack.html) - extension for finance
+ 
+### [Productivity Pack](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/AC-ProductivityPack/ac-productivity-pack.html) - productivity extension  
 
-### [AC Productivity Pack](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/AC-ProductivityPack/ac-productivity-pack.html) - productivity extension  
-
-### [SK Legislative Pack](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/AC-SK/ac-sk-legislative-pack.html) - extension to Slovak legislation and Slovak language  
+### [SK Legislative Pack](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/AC-SK/ac-sk-legislative-pack.html) - extension to Slovak legislation and Slovak language  

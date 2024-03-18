@@ -6,9 +6,9 @@ Each version of Business Central has its own separate folder where you can find 
 
 ## Support and Contacts
 
-Comments, suggestions, or bugs can be reported via **Issues** here on GitHub or by emailing [bc_support@autocont.cz](mailto:bc_support@autocont.cz).  
+Comments, suggestions, or bugs can be reported via **Issues** here on GitHub or by emailing [bc_support@aricoma.com](mailto:bc_support@aricoma.com).  
 
-For business issues and other information, use [Contact](https://www.acdynamics365.cz/kontakt).
+For business issues and other information, use [Contact](https://www.aricoma.com/cs/co-delame/podnikove-aplikace/informacni-systemy-microsoft/erp-pro-stredni-a-mensi-firmy#contact).
 
 ## Documentation
 

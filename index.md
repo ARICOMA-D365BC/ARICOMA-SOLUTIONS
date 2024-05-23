@@ -10,7 +10,7 @@
 
 **Aplikace k našim řešením** naleznete na GitHub stránkách [ARICOMA Solutions](https://github.com/ARICOMA-D365BC/ARICOMA-SOLUTIONS).
 
-**Dokumentaci k našim řešením** naleznete na stránkách [ARICOMA Solutions](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/AC-Solutions/ac-solutions.html).
+**Dokumentaci k našim řešením** naleznete na stránkách [ARICOMA Solutions](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/Solutions/solutions.html).
 
 ### Podpora a kontakty  
 

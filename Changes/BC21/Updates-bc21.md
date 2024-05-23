@@ -37,5 +37,5 @@
 ## Viz také
 
 [Přehled aktualizací ARICOMA SOLUTIONS pro všechny verze Business Central](../../index.md).  
-[Dokumentace k funkcionalitám ARICOMA SOLUTIONS](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/AC-Solutions/ac-solutions.html).  
+[Dokumentace k funkcionalitám ARICOMA SOLUTIONS](https://muj.autocont.cz/docs/cs-cz/dynamics365/business-central/Solutions/solutions.html).  
 [Vydané aktualizace Microsoft pro Dynamics 365 Business Central 2022 Release Wave 2](https://support.microsoft.com/en-us/topic/released-updates-for-microsoft-dynamics-365-business-central-2022-release-wave-2-8efa5bbb-3cd5-4445-ba3a-0752694bf46f).  

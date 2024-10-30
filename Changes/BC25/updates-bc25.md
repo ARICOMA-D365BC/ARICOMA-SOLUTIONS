@@ -4,7 +4,7 @@
 
 |Aktualizace |Datum vydání  |
 |---------|---------|
-|[CU25.1](2024-11-CU25.01-Changes_details.md) |2024-05 |
+|[CU25.1](2024-11-CU25.01-Changes_details.md) |2024-11 |
 
 
 

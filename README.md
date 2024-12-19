@@ -12,10 +12,10 @@ For business issues and other information, use [Contact](https://www.aricoma.com
 
 ## Documentation
 
-Documentation for our solutions can be found at [ARICOMA-Solutions](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/AC-Solutions/ac-solutions.html).
+Documentation for our solutions can be found at [ARICOMA-Solutions](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/Solutions/solutions.html).
 
-### [Financial Pack](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/AC-FinancialPack/ac-finance-pack.html) - extension for finance
+### [Financial Pack](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/FinancialPack/finance-pack.html) - extension for finance
  
-### [Productivity Pack](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/AC-ProductivityPack/ac-productivity-pack.html) - productivity extension  
+### [Productivity Pack](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/ProductivityPack/productivity-pack.html) - productivity extension  
 
-### [SK Legislative Pack](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/AC-SK/ac-sk-legislative-pack.html) - extension to Slovak legislation and Slovak language  
+### [SK Legislative Pack](https://www.aricoma.com/docs/cs-cz/dynamics365/business-central/SK/sk-legislative-pack.html) - extension to Slovak legislation and Slovak language  

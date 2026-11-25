@@ -2,6 +2,7 @@
 
 |Verze  |Vydání  |Datum vydání  |
 |---------|---------|---------|
+|[BC29](Changes/BC29/Updates-bc29.md) |Business Central 2026 Release Wave 2 |2026-10 |
 |[BC28](Changes/BC28/Updates-bc28.md) |Business Central 2026 Release Wave 1 |2026-04 |
 |[BC27](Changes/BC27/Updates-bc27.md) |Business Central 2025 Release Wave 2 |2025-10 |
 |[BC26](Changes/BC26/Updates-bc26.md) |Business Central 2025 Release Wave 1 |2025-04 |
